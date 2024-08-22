@@ -1,0 +1,2 @@
+pkSeqID,proto,saddr,sport,daddr,dport,seq,stddev,N_IN_Conn_P_SrcIP,min,state_number,mean,N_IN_Conn_P_DstIP,drate,srate,max
+73370436,tcp,192.168.100.46,80,192.168.100.5,80,1,0.67393,15,2.4785,9904,0,9267118,0,79.974998,0
